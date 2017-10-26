@@ -1,0 +1,6 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+'http://example.digitalassetlinks.org',
+  "target" : { "namespace": "android_app", "package_name": "divya.com.etracker",
+               "sha256_cert_fingerprints": ["C4:53:5E:79:5D:65:B3:B1:EE:A0:49:3C:67:DA:93:77:53:B8:97:5A:3A:26:FC:48:81:A9:29:4D:05:38:15:AB"] }
+}]
